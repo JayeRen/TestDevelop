@@ -1,0 +1,22 @@
+--------
+id: mali-ft-adventure-00*
+name: javascript 代码输入
+priority: 高
+sequence: 
+version: v1.0
+author: 
+date: 
+--------
+### 测试范围
+    探险模块（ADVENTURE） 游戏界面
+### 前置条件
+    加载编程界面
+### 输入
+javascript 代码
+
+### 预期输出
+1. 关键字 this 显示效果
+
+
+### 测试步骤
+？？？

@@ -1,0 +1,17 @@
+{
+  "name": "test_protractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook-plugin-git-author": "^1.1.2",
+    "gitbook-plugin-layout": "0.0.1",
+    "protractor": "^4.0.9",
+    "protractor-jasmine2-html-reporter": "0.0.6"
+  }
+}

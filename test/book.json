@@ -1,0 +1,22 @@
+{
+    "root": "./功能测试用例",
+    "title": "码力玩加功能测试用例",
+    "author": "任家依",
+    "language": "zh",
+    "plugins": [
+        "git-author",
+        "layout"
+    ],
+    "pluginsConfig": {
+        "git-author": {
+            "position": "none",
+            "modifyTpl": "",
+            "createTpl": "",
+            "timeStampFormat": "YYYY-MM-DD HH:mm"
+        },
+        "layout": {
+            "headerPath": "/header.md",
+            "footerPath": "/footer.md"
+        }
+    }
+}

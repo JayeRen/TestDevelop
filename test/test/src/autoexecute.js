@@ -1,0 +1,1 @@
+module.exports.html=browser.get('file:///C:/Users/MALIWANJIA/work/test_protractor/test/reports/index.html');
